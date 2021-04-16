@@ -1,8 +1,8 @@
 # Qt-Material-Dark
 
-##Material dark theme but even more customized
+## Material dark theme but even more customized
 
-## Installation
+### Installation
 
 Copy the .xml files to the styles folder of QT Creator. 
 
